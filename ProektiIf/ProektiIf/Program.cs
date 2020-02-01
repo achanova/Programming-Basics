@@ -14,7 +14,7 @@ namespace ProektiIf
             }
             else if (uspeh>=4.50 && dohod<=560)
             {
-                Console.WriteLine("Socialna stipendia");
+                Console.WriteLine("Socialna stipendia.");
             }
             else
             {
