@@ -10,7 +10,7 @@ namespace ProektiIf
             var dohod = double.Parse(Console.ReadLine());
             if (uspeh>=5.50)
             {
-                Console.WriteLine("Stipendia za otlichen uspeh");
+                Console.WriteLine("Stipendia za otlichen uspeh.");
             }
             else if (uspeh>=4.50 && dohod<=560)
             {
