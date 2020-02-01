@@ -1,0 +1,11 @@
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\bin\Debug\netcoreapp2.1\ProektiIf.deps.json
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\bin\Debug\netcoreapp2.1\ProektiIf.runtimeconfig.json
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\bin\Debug\netcoreapp2.1\ProektiIf.runtimeconfig.dev.json
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\bin\Debug\netcoreapp2.1\ProektiIf.dll
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\bin\Debug\netcoreapp2.1\ProektiIf.pdb
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\obj\Debug\netcoreapp2.1\ProektiIf.csprojAssemblyReference.cache
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\obj\Debug\netcoreapp2.1\ProektiIf.csproj.CoreCompileInputs.cache
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\obj\Debug\netcoreapp2.1\ProektiIf.AssemblyInfoInputs.cache
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\obj\Debug\netcoreapp2.1\ProektiIf.AssemblyInfo.cs
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\obj\Debug\netcoreapp2.1\ProektiIf.dll
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\ProektiIf\ProektiIf\obj\Debug\netcoreapp2.1\ProektiIf.pdb
