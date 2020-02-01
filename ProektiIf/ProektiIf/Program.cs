@@ -18,7 +18,7 @@ namespace ProektiIf
             }
             else
             {
-                Console.WriteLine("Ne poluchava stipendia");
+                Console.WriteLine("Ne poluchava stipendia...");
             }
         }
     }
