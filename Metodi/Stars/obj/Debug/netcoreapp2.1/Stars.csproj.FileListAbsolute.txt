@@ -1,0 +1,11 @@
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\bin\Debug\netcoreapp2.1\Stars.deps.json
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\bin\Debug\netcoreapp2.1\Stars.runtimeconfig.json
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\bin\Debug\netcoreapp2.1\Stars.runtimeconfig.dev.json
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\bin\Debug\netcoreapp2.1\Stars.dll
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\bin\Debug\netcoreapp2.1\Stars.pdb
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\obj\Debug\netcoreapp2.1\Stars.csprojAssemblyReference.cache
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\obj\Debug\netcoreapp2.1\Stars.csproj.CoreCompileInputs.cache
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\obj\Debug\netcoreapp2.1\Stars.AssemblyInfoInputs.cache
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\obj\Debug\netcoreapp2.1\Stars.AssemblyInfo.cs
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\obj\Debug\netcoreapp2.1\Stars.dll
+E:\_PMG\2019-2020\8B_Uvod_v_programiraneto\Metodi\Stars\obj\Debug\netcoreapp2.1\Stars.pdb
